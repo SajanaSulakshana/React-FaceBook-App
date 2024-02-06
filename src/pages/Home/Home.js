@@ -7,7 +7,7 @@ import "./home.css"
 
 
 export default function Home() {
-  return(
+  (
     <>
     <NavBar/>
     <div className="bottomContainer">
